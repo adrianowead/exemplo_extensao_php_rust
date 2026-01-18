@@ -16,7 +16,7 @@ Embora o desenvolvimento de extensões exija uma configuração de ambiente rigo
 
 Confira no vídeo abaixo a automação em funcionamento, gerando binários para múltiplas versões do PHP em segundos:
 
-👉 **[Assista ao vídeo de demonstração no YouTube](https://youtu.be/nNU7lcM5-To)**
+**[![Assista ao vídeo de demonstração no YouTube](https://img.youtube.com/vi/nNU7lcM5-To/0.jpg)](https://youtu.be/nNU7lcM5-To)**
 
 ## Próximos Passos: Pack de Automação
 
