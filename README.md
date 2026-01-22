@@ -47,11 +47,41 @@ Confira no vídeo abaixo a automação em funcionamento, gerando binários para 
 
 **[![Assista ao vídeo de demonstração no YouTube](https://img.youtube.com/vi/nNU7lcM5-To/0.jpg)](https://youtu.be/nNU7lcM5-To)**
 
-## Próximos Passos: Pack de Automação
+## Pack de Automação Profissional (Disponível)
 
-Em breve, será disponibilizado para venda o **Pack de Automação Profissional**, contendo todos os scripts de infraestrutura, Dockerfile e receitas de build demonstrados no vídeo.
+Já está disponível para venda o **Pack de Automação Profissional**, contendo toda a infraestrutura de scripts e receitas de build demonstradas no vídeo acima. Este pacote resolve a maior barreira no desenvolvimento de extensões: a configuração complexa de compiladores, linkers e headers, especialmente em ambientes Windows.
 
-Este pacote foi desenhado para quem deseja pular a etapa burocrática de configuração de compiladores e linkers (especialmente no Windows) e focar exclusivamente na lógica de negócio em Rust.
+👉 **[Adquirir Pack de Automação na Hotmart](https://pay.hotmart.com/D104027815O)**
+
+### O que você precisa saber antes de adquirir:
+
+**1. Versões e Variantes Suportadas (x64):**
+- **PHP:** Automação pronta para as versões 8.1, 8.2, 8.3, 8.4 e 8.5.
+- **Variantes:** Suporte completo para NTS (*Non-Thread Safe*) e TS (*Thread Safe*).
+- **Sistemas Alvo:** Geração de binários para Linux (`.so`) e Windows (`.dll`).
+
+
+**2. Requisitos de Hardware e Software:**
+- **Sistema Operacional:** Requer Windows 10 ou 11 (exigência do Docker para compilação de containers Windows).
+- **Ferramentas:** Docker Desktop e um terminal Bash (como o do Git for Windows).
+- **Memória:** Mínimo de 16GB de RAM.
+- **Espaço em Disco:** Mínimo de 200GB (necessário para o cache das imagens e camadas do Windows SDK).
+
+
+**3. Estrutura do Pacote:**
+
+Ao adquirir, você terá acesso a uma estrutura organizada para desenvolvimento profissional:
+
+- **`/docker`:** Contém os Dockerfiles e a engine de automação interna.
+- **`/src`:** Pasta para o seu código-fonte em Rust.
+- **`/release`:** Local onde os binários compilados são organizados automaticamente por versão.
+- **Scripts de Entrada:** `./run_all_linux.sh` e `./run_all_windows.sh` para disparar os builds globais.
+
+
+**4. Nota sobre a Primeira Execução:**
+
+A primeira compilação para Windows é naturalmente demorada devido ao download das dependências oficiais da Microsoft. Uma vez que as imagens estão em cache no seu Docker, as compilações subsequentes tornam-se extremamente rápidas.
+
 
 Não há nenhuma obrigação de adquirir o pack, ele será apenas uma facilidade adicional para quem não quer, ou não pode, ter o trabalho manual de automatizar todo o processo.
 
