@@ -10,6 +10,12 @@ O principal objetivo do livro é popularizar o desenvolvimento de extensões par
 
 Este repositório fornece um exemplo totalmente funcional dos códigos comentados no livro, permitindo que o desenvolvedor execute os testes de forma prática e evite erros de digitação ao replicar os exemplos.
 
+## Adquira o Livro
+
+O livro completo, contendo a fundamentação teórica e a integração de baixo nível entre PHP e Rust, **está atualmente disponível para aquisição na Hotmart**. Em breve, a obra também estará disponível em outras plataformas e livrarias.
+
+**[Comprar Livro na Hotmart: Extensões PHP de Alto Desempenho](https://adriano-mail.hotmart.host/extensoes-php-de-alto-desempenho-fd903b0d-d6e1-4257-9989-95da922da33b)**
+
 ## Download dos Binários (Releases)
 
 Para facilitar o teste imediato, todos os binários desta extensão de demonstração já estão compilados e disponíveis na **[aba de Releases deste repositório](https://github.com/adrianowead/exemplo_extensao_php_rust/releases)**.
