@@ -14,7 +14,7 @@ Este repositório fornece um exemplo totalmente funcional dos códigos comentado
 
 O livro completo, contendo a fundamentação teórica e a integração de baixo nível entre PHP e Rust, **está atualmente disponível para aquisição na Hotmart**. Em breve, a obra também estará disponível em outras plataformas e livrarias.
 
-**[Comprar Livro na Hotmart: Extensões PHP de Alto Desempenho](https://adriano-mail.hotmart.host/extensoes-php-de-alto-desempenho-fd903b0d-d6e1-4257-9989-95da922da33b)**
+**[Comprar Livro na Hotmart: Extensões PHP de Alto Desempenho](https://go.hotmart.com/N104023457L)**
 
 ## Download dos Binários (Releases)
 
