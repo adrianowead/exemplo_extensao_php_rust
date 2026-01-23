@@ -54,7 +54,7 @@ Confira no vídeo abaixo a automação em funcionamento, gerando binários para 
 
 Já está disponível para venda o **Pack de Automação Profissional**, contendo toda a infraestrutura de scripts e receitas de build demonstradas no vídeo acima. Este pacote resolve a maior barreira no desenvolvimento de extensões: a configuração complexa de compiladores, linkers e headers, especialmente em ambientes Windows.
 
-👉 **[Adquirir Pack de Automação na Hotmart](https://pay.hotmart.com/D104027815O)**
+👉 **[Adquirir Pack de Automação no Gumroad](https://wead.gumroad.com/l/fajyy)**
 
 ### O que você precisa saber antes de adquirir:
 
