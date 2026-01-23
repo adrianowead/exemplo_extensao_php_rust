@@ -1,6 +1,9 @@
 # Extensões de Alto Desempenho em PHP
 
-Este repositório faz parte do material de apoio do livro **"Extensões PHP de Alto Desempenho - Rust + PHP: Performance Nativa Sem Complexidade de C/C++"**, ISBN (Livro Digital): **978-65-01-89387-7**.
+Este repositório faz parte do material de apoio do livro **"Extensões PHP de Alto Desempenho - Rust + PHP: Performance Nativa Sem Complexidade de C/C++"**, disponível nas versões impressa e digital:
+
+- **ISBN (Livro Impresso):** 978-65-01-90968-4
+- **ISBN (Livro Digital):** 978-65-01-89387-7
 
 O principal objetivo do livro é popularizar o desenvolvimento de extensões para PHP usando Rust e demonstrar o real ganho de desempenho, comparando diretamente:
 
