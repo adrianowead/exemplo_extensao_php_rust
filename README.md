@@ -19,11 +19,11 @@ O livro completo, com a fundamentação teórica e a integração de baixo níve
 
 ### Versão Digital
 
-- **[Comprar eBook na Amazon Brasil](https://www.amazon.com.br/dp/B0GJMQJHWN)**
+- **[Comprar eBook na Amazon Brasil](https://amzn.to/3NwhhCz)**
 
 ### Versão Física — Capa Comum
 
-- **[Comprar na Amazon Brasil (via Clube dos Autores)](https://www.amazon.com.br/Extens%C3%B5es-PHP-Alto-Desempenho-Complexidade/dp/6501909686/)**
+- **[Comprar na Amazon Brasil (via Clube dos Autores)](https://amzn.to/3YYIekM)**
 - **[Comprar na Amazon Internacional](https://www.amazon.com/dp/B0GJPRCS3P)**
 - **[Comprar diretamente no Clube dos Autores](https://clubedeautores.com.br/livro/extensoes-php-de-alto-desempenho)**
 
