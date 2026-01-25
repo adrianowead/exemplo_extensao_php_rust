@@ -15,11 +15,19 @@ Este repositório fornece um exemplo totalmente funcional dos códigos comentado
 
 ## Adquira o Livro
 
-O livro completo, contendo a fundamentação teórica e a integração de baixo nível entre PHP e Rust, **está atualmente disponível para aquisição no Clube dos Autores e na Amazon Global (escrito em Português do Brasil)**. Em breve, a obra também estará disponível em outras plataformas e livrarias.
+O livro completo, com a fundamentação teórica e a integração de baixo nível entre PHP e Rust, **já está disponível para compra em formato digital e físico (capa comum)**. A obra é escrita em **Português do Brasil** e, em breve, também estará disponível em outras plataformas e livrarias.
+⚠️ **A edição em capa dura será lançada futuramente.**
 
-👉 **[Comprar Livro Digital na Amazon Brasil](https://www.amazon.com.br/dp/B0GJMQJHWN)**
+### Versão Digital
 
-👉 **[Comprar Livro Físico no Clube dos Autores](https://clubedeautores.com.br/livro/extensoes-php-de-alto-desempenho)**
+- **[Comprar eBook na Amazon Brasil](https://www.amazon.com.br/dp/B0GJMQJHWN)**
+
+### Versão Física — Capa Comum
+
+- **[Comprar na Amazon Brasil (via Clube dos Autores)](https://www.amazon.com.br/Extens%C3%B5es-PHP-Alto-Desempenho-Complexidade/dp/6501909686/)**
+- **[Comprar na Amazon Internacional](https://www.amazon.com/dp/B0GJPRCS3P)**
+- **[Comprar diretamente no Clube dos Autores](https://clubedeautores.com.br/livro/extensoes-php-de-alto-desempenho)**
+
 
 ## Download dos Binários (Releases)
 
