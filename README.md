@@ -18,18 +18,15 @@ Este repositório fornece um exemplo totalmente funcional dos códigos comentado
 O livro completo, com a fundamentação teórica e a integração de baixo nível entre PHP e Rust, **já está disponível para compra em formato digital e físico (capa comum)**. A obra é escrita em **Português do Brasil**.
 
 ### Versão Digital
-
-- **[Comprar eBook na Amazon Brasil](https://amzn.to/3NwhhCz)**
+[![Amazon Brasil](https://img.shields.io/badge/Amazon_Brasil-eBook-FF9900?style=for-the-badge&logo=amazon)](https://amzn.to/3NwhhCz)
 
 ### Versão Física — Capa Comum
-
-- **[Comprar na Amazon Brasil (via Clube dos Autores)](https://amzn.to/3YYIekM)**
-- **[Comprar na Amazon Internacional](https://www.amazon.com/dp/B0GJPRCS3P)**
-- **[Comprar diretamente no Clube dos Autores](https://clubedeautores.com.br/livro/extensoes-php-de-alto-desempenho)**
+[![Amazon Brasil](https://img.shields.io/badge/Amazon_Brasil-Capa_Comum-FF9900?style=for-the-badge&logo=amazon)](https://amzn.to/3YYIekM)
+[![Amazon Internacional](https://img.shields.io/badge/Amazon_Internacional-Capa_Comum-FF9900?style=for-the-badge&logo=amazon)](https://www.amazon.com/dp/B0GJPRCS3P)
+[![Clube dos Autores](https://img.shields.io/badge/Clube_dos_Autores-Capa_Comum-1E88E5?style=for-the-badge&logo=bookstack)](https://clubedeautores.com.br/livro/extensoes-php-de-alto-desempenho)
 
 ### Versão Física — Capa Dura
-
-- **[Comprar na Amazon Internacional](https://www.amazon.com/dp/B0GJQZXJ9J)**
+[![Amazon Internacional](https://img.shields.io/badge/Amazon_Internacional-Capa_Dura-FF9900?style=for-the-badge&logo=amazon)](https://www.amazon.com/dp/B0GJQZXJ9J)
 
 
 ## Download dos Binários (Releases)
@@ -104,3 +101,6 @@ Não há nenhuma obrigação de adquirir o pack, ele será apenas uma facilidade
 # Conhecimento
 
 O livro não é essencial para compreender este repositório; entretanto, a leitura é altamente recomendada para se familiarizar com os conceitos de baixo nível, a Zend Engine e os motivos de segurança de memória que tornam o Rust a escolha ideal para estender o PHP. Especialmente se você é um programador PHP e ainda não tem familiaridade com o ecossistema Rust.
+
+---
+> **Nota:** Como associado da Amazon, recebo por compras qualificadas através dos links acima.
