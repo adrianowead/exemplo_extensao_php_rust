@@ -28,7 +28,6 @@ O livro completo, com a fundamentação teórica e a integração de baixo níve
 ### Versão Física — Capa Dura
 [![Amazon Internacional](https://img.shields.io/badge/Amazon_Internacional-Capa_Dura-FF9900?style=for-the-badge&logo=amazon)](https://www.amazon.com/dp/B0GJQZXJ9J)
 
-
 ## Download dos Binários (Releases)
 
 Para facilitar o teste imediato, todos os binários desta extensão de demonstração já estão compilados e disponíveis na **[aba de Releases deste repositório](https://github.com/adrianowead/exemplo_extensao_php_rust/releases)**.
@@ -95,12 +94,21 @@ Ao adquirir, você terá acesso a uma estrutura organizada para desenvolvimento 
 
 A primeira compilação para Windows é naturalmente demorada devido ao download das dependências oficiais da Microsoft. Uma vez que as imagens estão em cache no seu Docker, as compilações subsequentes tornam-se extremamente rápidas.
 
-
 Não há nenhuma obrigação de adquirir o pack, ele será apenas uma facilidade adicional para quem não quer, ou não pode, ter o trabalho manual de automatizar todo o processo.
+
+Nesse material, exploramos como extrair 100% do PHP puro antes de decidirmos "descer para o metal" com Rust. É o guia definitivo para quem quer parar de usar o PHP apenas como um motor de scripts e passar a tratá-lo como uma ferramenta de engenharia de sistemas.
 
 # Conhecimento
 
 O livro não é essencial para compreender este repositório; entretanto, a leitura é altamente recomendada para se familiarizar com os conceitos de baixo nível, a Zend Engine e os motivos de segurança de memória que tornam o Rust a escolha ideal para estender o PHP. Especialmente se você é um programador PHP e ainda não tem familiaridade com o ecossistema Rust.
+
+# Contexto e Fundamentação Técnica
+
+Este projeto foca em criação de extensões nativas. No entanto, para dominar o uso de Rust ou C no PHP, é fundamental primeiro procurar otimizar ao máximo no nível da própria linguagem como gerenciar memória e concorrência.
+
+Se você busca entender as técnicas que precedem a necessidade de uma extensão nativa (como Processamento Binário, Fibers, Memória Compartilhada e Opcodes), recomendo visiar o repositório com uma vasta quantidade de exemplos para otimização do PHP, além de fundamentação teórica e benchmarks:
+
+**[PHP Além das Abstrações: Um guia para engenheiros que precisam mais do que bibliotecas](https://github.com/adrianowead/exemplo_php_alem_das_abstracoes)**
 
 ---
 > **Nota:** Como associado da Amazon, recebo por compras qualificadas através dos links acima.
